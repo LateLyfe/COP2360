@@ -1,2 +1,1 @@
-# Class
-For a class
+cop2360
